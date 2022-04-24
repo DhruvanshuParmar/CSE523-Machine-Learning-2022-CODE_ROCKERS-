@@ -7,13 +7,13 @@ framework is a computerized biometric programming which is appropriate for decid
 
 ## Results
 
-![FIG1](C:\Users\Dhruvanshu\Downloads\ML_Group16_Code_Rockers_2022\CSE523-Machine-Learning-2022-CODE_ROCKERS-\Results\fig 1.png)
+![fig 1](https://github.com/DhruvanshuParmar/CSE523-Machine-Learning-2022-CODE_ROCKERS-/blob/main/Results/fig%201.png)
 
-![fig 2](C:\Users\Dhruvanshu\Downloads\ML_Group16_Code_Rockers_2022\CSE523-Machine-Learning-2022-CODE_ROCKERS-\Results\fig 2.png)
+![fig 2](https://github.com/DhruvanshuParmar/CSE523-Machine-Learning-2022-CODE_ROCKERS-/blob/main/Results/fig%202.png)
 
-![fig 3](C:\Users\Dhruvanshu\Downloads\ML_Group16_Code_Rockers_2022\CSE523-Machine-Learning-2022-CODE_ROCKERS-\Results\fig 3.jpeg)
+![fig 3](https://github.com/DhruvanshuParmar/CSE523-Machine-Learning-2022-CODE_ROCKERS-/blob/main/Results/fig%203.jpeg)
 
-![fig 4](C:\Users\Dhruvanshu\Downloads\ML_Group16_Code_Rockers_2022\CSE523-Machine-Learning-2022-CODE_ROCKERS-\Results\fig 4.jpeg)
+![fig 4](https://github.com/DhruvanshuParmar/CSE523-Machine-Learning-2022-CODE_ROCKERS-/blob/main/Results/fig%204.jpeg)
 
 
 
